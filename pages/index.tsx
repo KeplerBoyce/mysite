@@ -10,9 +10,16 @@ const Home: NextPage = () => {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
-			<main className="container">
-				<p className="text-red-500">Hello</p>
-			</main>
+            <main className="container mt-6 mx-auto">
+                <h1 className="text-5xl font-bold text-center mb-4">
+					Kepler Boyce
+				</h1>
+                <p className="text-lq text-center mb-8">
+					Very cool stuff
+				</p>
+                <div className="flex justify-center">
+                </div>
+            </main>
 		</div>
 	)
 }
