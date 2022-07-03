@@ -1,7 +1,7 @@
-import type { NextPage } from 'next'
 import Head from 'next/head'
+import Header from '../components/Header'
 
-const Home: NextPage = () => {
+export default function Home() {
 	return (
 		<div>
 			<Head>
@@ -10,18 +10,16 @@ const Home: NextPage = () => {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
-            <main className="container mt-6 mx-auto">
+			<Header />
+
+            <main className="container mt-6 px-4 max-w-3xl">
                 <h1 className="text-5xl font-bold text-center mb-4">
 					Kepler Boyce
 				</h1>
-                <p className="text-lq text-center mb-8">
-					Very cool stuff
+                <p className="text-lq mb-8">
+					Welcome to my legendary website
 				</p>
-                <div className="flex justify-center">
-                </div>
             </main>
 		</div>
 	)
 }
-
-export default Home
