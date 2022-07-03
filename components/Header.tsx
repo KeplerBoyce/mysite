@@ -7,7 +7,7 @@ export default function Header() {
     
     return (
         <div className="sticky top-0 bg-white bg-opacity-50 backdrop-blur flex gap-6 items-end p-2 pl-4 mx-4 border-b">
-            <span className="font-bold text-xl hover:text-sky-500 duration-150">
+            <span className="font-bold text-xl hover:text-rose-600 duration-150">
                 <Link href='/'>
                     Kepler Boyce
                 </Link>

@@ -12,7 +12,7 @@ export default function NavLink(props: {href: string, name: string}) {
                     {name}
                 </p>
             ) : (
-                <button className="hover:text-sky-500 duration-150">
+                <button className="hover:text-rose-600 duration-150">
                     {name}
                 </button>
             )}
