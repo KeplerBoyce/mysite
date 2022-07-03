@@ -4,15 +4,15 @@ import Header from '../components/Header'
 export default function Speedcubing() {
 	const cubingData = [
 		{ event: "3x3", single: "6.17", average: "8.95", main: "RS3M 2020" },
-		{ event: "3x3 OH", single: "", average: "", main: "Weilong GTS2M" },
+		{ event: "3x3 OH", single: "11.55", average: "15.35", main: "Weilong GTS2M" },
 		{ event: "3x3 BLD", single: "—", average: "—", main: "—" },
-		{ event: "2x2", single: "", average: "", main: "MGC 2x2" },
-		{ event: "4x4", single: "", average: "", main: "Aosu WRM" },
+		{ event: "2x2", single: "2.15", average: "3.79", main: "MGC 2x2" },
+		{ event: "4x4", single: "34.39", average: "41.49", main: "Aosu WRM" },
 		{ event: "5x5", single: "", average: "", main: "Aochuang GTS M" },
 		{ event: "6x6", single: "", average: "", main: "MGC 6x6" },
 		{ event: "7x7", single: "", average: "", main: "Yufu V2 M" },
 		{ event: "Pyraminx", single: "", average: "", main: "Qiyi MS" },
-		{ event: "Megaminx", single: "", average: "", main: "Yuhu V2 M" },
+		{ event: "Megaminx", single: "1:03.25", average: "1:25.84", main: "Yuhu V2 M" },
 		{ event: "Skewb", single: "", average: "", main: "Aoyan M" },
 		{ event: "Square-1", single: "", average: "", main: "Little Magic M" },
 		{ event: "Clock", single: "", average: "", main: "Qiyi Clock" },
@@ -38,8 +38,12 @@ export default function Speedcubing() {
 						I have been speedcubing on and off as a hobby since 2017. I have only been to 2 WCA competitions, but I would like to go to more.
 					</p>
 					<a className="text-blue-400 underline" target="_blank" href="https://www.worldcubeassociation.org/persons/2020BOYC01">
-						WCA Profile
+						My WCA profile
 					</a>
+					<p>
+						I currently use white cross CFOP for both 2H and OH, but I started practicing color neutral Roux with the hope of switching for OH
+						and eventually 2H.
+					</p>
 				</section>
 
 				<section className="flex flex-col gap-2 mb-12">
