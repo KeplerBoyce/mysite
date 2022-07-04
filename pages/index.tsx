@@ -16,7 +16,7 @@ export default function Home() {
                 <h1 className="text-5xl font-bold text-center mb-4">
 					Kepler Boyce
 				</h1>
-                <p className="text-lq mb-8">
+                <p>
 					Welcome to my legendary website
 				</p>
             </main>

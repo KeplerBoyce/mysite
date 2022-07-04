@@ -29,7 +29,7 @@ export default function Speedcubing() {
 			<Header />
 
 			<main className="container mt-6 px-4 max-w-3xl mb-24">
-				<h1 className="text-5xl font-bold text-center mb-4">
+				<h1 className="text-5xl font-bold text-center mb-8">
 					Speedcubing
 				</h1>
 
