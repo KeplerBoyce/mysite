@@ -20,14 +20,14 @@ export default function BlenderUnity() {
 
 				<section className="flex flex-col gap-4 mb-12">
 					<p>
-						I've been messing around with Unity and making various unfinished projects for a while. Since I'm bad at art, one roadblock I had
+						{`I've been messing around with Unity and making various unfinished projects for a while. Since I'm bad at art, one roadblock I had
 						in all of those projects was making decent graphics. Making good 2D art seemed difficult to me, so I started learning low-poly 3D
 						modeling and animation in Blender. I thought that Blender would be very difficult to learn based on what I had heard about it, but it
-						has been surprisingly easy, at least for the simple stuff that I have made so far.
+						has been surprisingly easy, at least for the simple stuff that I have made so far.`}
 					</p>
 					<p>
-						I'm not sure what kind of game I want to make yet, but I figured that I can start by creating a bunch of models to learn and I might end
-						up using them down the road. I thought it would be funny if you played as a duck in the game, so I modeled and animated a duck.
+						{`I'm not sure what kind of game I want to make yet, but I figured that I can start by creating a bunch of models to learn and I might end
+						up using them down the road. I thought it would be funny if you played as a duck in the game, so I modeled and animated a duck.`}
 					</p>
 				</section>
 

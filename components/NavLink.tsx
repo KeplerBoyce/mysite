@@ -8,11 +8,11 @@ export default function NavLink(props: {href: string, name: string}) {
     return (
         <Link href={href}>
             {pathname === href ? (
-                <p className="font-bold">
+                <p className="text-rose-800">
                     {name}
                 </p>
             ) : (
-                <button className="hover:text-rose-600 duration-150">
+                <button className="text-gray-600 hover:text-rose-600 duration-150">
                     {name}
                 </button>
             )}
