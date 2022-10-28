@@ -5,8 +5,8 @@ export default function Home() {
 	return (
 		<div>
 			<Head>
-				<title>Legendary Site</title>
-				<meta name="description" content="Top 10 Site of All Time" />
+				<title>Kepler Boyce</title>
+				<meta name="description" content="Kepler Boyce" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
@@ -17,7 +17,7 @@ export default function Home() {
 					Kepler Boyce
 				</h1>
                 <p>
-					Welcome to my legendary website
+					Welcome to my website!
 				</p>
             </main>
 		</div>

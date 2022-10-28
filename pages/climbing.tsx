@@ -5,8 +5,8 @@ export default function Climbing() {
 	return (
 		<div>
 			<Head>
-				<title>Legendary Site | Climbing</title>
-				<meta name="description" content="Top 10 Site of All Time" />
+				<title>Kepler Boyce | Climbing</title>
+				<meta name="description" content="Climbing" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 

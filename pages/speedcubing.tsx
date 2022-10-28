@@ -22,8 +22,8 @@ export default function Speedcubing() {
 	return (
 		<div>
 			<Head>
-				<title>Legendary Site | Speedcubing</title>
-				<meta name="description" content="Top 10 Site of All Time" />
+				<title>Kepler Boyce | Speedcubing</title>
+				<meta name="description" content="Speedcubing" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 

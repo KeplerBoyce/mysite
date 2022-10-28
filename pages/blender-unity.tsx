@@ -6,8 +6,8 @@ export default function BlenderUnity() {
 	return (
 		<div>
 			<Head>
-				<title>Legendary Site | Blender/Unity</title>
-				<meta name="description" content="Top 10 Site of All Time" />
+				<title>Kepler Boyce | Blender/Unity</title>
+				<meta name="description" content="Blender/Unity" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 

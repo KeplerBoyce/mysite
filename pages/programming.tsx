@@ -5,8 +5,8 @@ export default function Programming() {
 	return (
 		<div>
 			<Head>
-				<title>Legendary Site | Programming</title>
-				<meta name="description" content="Top 10 Site of All Time" />
+				<title>Kepler Boyce | Programming</title>
+				<meta name="description" content="Programming" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
