@@ -36,7 +36,7 @@ export default function Speedcubing() {
 
 				<section className="flex flex-col gap-2 mb-12">
 					<p>
-						I have been speedcubing on and off as a hobby since 2017. I have only been to 2 WCA competitions, but I would like to go to more.
+						I have been speedcubing as a hobby since 2018. I have only been to 2 WCA competitions, but I would like to go to more.
 					</p>
 					<NiceLink text="My WCA profile" href="https://www.worldcubeassociation.org/persons/2020BOYC01" />
 					<p>
