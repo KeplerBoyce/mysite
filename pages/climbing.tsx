@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Header from '../components/Header'
+import NiceLink from '../components/NiceLink'
 
 export default function Climbing() {
 	return (
@@ -16,9 +17,7 @@ export default function Climbing() {
 				<h1 className="text-5xl font-bold text-center mb-4">
 					Rock climbing
 				</h1>
-				<p className="text-lq mb-8">
-					Climbing
-				</p>
+				<NiceLink text="Playlist of my climbing videos" href="https://youtube.com/playlist?list=PLXVMn8d7341wGvS50QVbGxxuwXrPuDGld" />
 			</main>
 		</div>
 	)
