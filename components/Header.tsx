@@ -13,8 +13,8 @@ export default function Header() {
                 </Link>
             </span>
             <span>•</span>
-            <NavLink href='/speedcubing' name="Speedcubing" />
             <NavLink href='/programming' name="Programming projects" />
+            <NavLink href='/speedcubing' name="Speedcubing" />
             <NavLink href='/blender-unity' name="Blender and Unity" />
             <NavLink href='/climbing' name="Rock climbing" />
         </div>
